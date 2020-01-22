@@ -1,0 +1,3 @@
+<html>
+<h1 style="color:slateblue">Frequently Ask Questions</h1>
+<style>
